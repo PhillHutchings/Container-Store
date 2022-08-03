@@ -1,5 +1,7 @@
 # Container-Store
 
+main class ContainerMain.java
+
 This container store project is an updated version of the very first project I ever attempted by myself, regarding not copying or learning from somebody’s example. Written in JAVA and SQL
 	
 I started this project as I myself worked in a removal business and have first-hand experience in what this project was trying to solve, mainly moving the customers container and locations into a database, instead of just using a book for writing in, as well as having all customers details and inventories at a touch of a button, the most helpful being the searching and moving of containers and the quick process of creating a picklist for multiple customers containers.

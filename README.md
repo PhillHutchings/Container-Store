@@ -37,14 +37,15 @@ Add new Customer;
 	Entering the containers and their locations, type in the container number (only numbers accepted)
 	Then type where the container is to be located, a drop-down box will help for easy find, then 		click add, repeat until all containers added, if a new container number is added that is not in 		the system you will be given the option to add it to the system, does not work with locations! 		Checks are made for duplicates, when all is complete click next.
 
-	after a new customer is added along with their containers and inventorys on the main screen you 	can click on the custromers name form the customer table and their conatiners and locations will 	be visible in the containers table to the right of it, there you can click on a container to view 	its contaents in the inventory table below
+after a new customer is added along with their containers and inventorys on the main screen you 	can click on the custromers name form the customer table and their conatiners and locations will 	be visible in the containers table to the right of it, there you can click on a container to view 	its contaents in the inventory table below
 
 
 Adding inventory;
 	The added containers will be listed in the drop-down box, click add new item and fill out the 			details, click on the last column labelled photo to add photo file, on completing the inventory 		hit save, when all containers completed hit finish, if a container didn’t have inventory added it 	will show up in the button on the home screen, create new inventory.
 
-	Edit customer details
-	Enter customers last name or ID number (created automatically in add new customer) and click 			find, can search by first letter of name, and it will bring up all customers whose last name 			begins 	with that letter, add more letters for more refined search click on name in drop down-box 	to auto fill details, amend accordingly. And save.
+Edit customer details
+
+Enter customers last name or ID number (created automatically in add new customer) and click 			find, can search by first letter of name, and it will bring up all customers whose last name 			begins 	with that letter, add more letters for more refined search click on name in drop down-box 	to auto fill details, amend accordingly. And save.
 
 Search customer;
 	Enter name of customer to search using drop-down list, details shown
